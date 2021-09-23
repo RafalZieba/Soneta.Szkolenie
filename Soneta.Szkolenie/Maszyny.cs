@@ -2,5 +2,6 @@
 {
     public class Maszyny : SzkolenieModule.MaszynaTable
     {
+
     }
 }
